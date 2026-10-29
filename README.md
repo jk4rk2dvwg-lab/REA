@@ -14,7 +14,7 @@ One plugin that combines two MIT-licensed projects:
 In Claude Code:
 
 ```
-/plugin marketplace add YOUR-GITHUB-NAME/rea-replica
+/plugin marketplace add jk4rk2dvwg-lab/REA
 /plugin install rea-replica@rea-replica
 ```
 
