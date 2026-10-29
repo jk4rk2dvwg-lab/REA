@@ -4,7 +4,8 @@ Read this after [rebuild-workflow.md](rebuild-workflow.md) Stages 1–7, when th
 rebuild needs a real backend, a landing page, pricing, a store listing, or a
 production deploy. Adapted from the MIT-licensed Replica skill pack
 (github.com/Jakeschincariol/replica-skill). Tool and template paths are relative
-to this skill's folder.
+to this skill's folder. For the complete instructions of each stage, load the
+full skills `replica-backend`, `replica-launch` and `replica-deploy`.
 
 ## Rules that apply to every stage here
 

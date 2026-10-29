@@ -508,6 +508,12 @@ as complete while required questions remain open.
 - Backend and security checklist, landing page, pricing, store listing lint,
   and production deploy with a preflight gate:
   [references/launch-and-deploy.md](references/launch-and-deploy.md)
+- The two guides above are the map. Each stage also has a full Replica skill
+  in this plugin with the complete instructions: `replica-recon`,
+  `replica-entrepreneur`, `replica-architect`, `replica-design`,
+  `replica-build`, `replica-backend`, `replica-test`, `replica-diff`,
+  `replica-brand`, `replica-launch` and `replica-deploy`. When a stage needs
+  more detail than the guide gives, load that skill and follow it.
 
 ## Finish the task
 

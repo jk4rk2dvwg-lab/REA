@@ -23,7 +23,13 @@ Or download `rea-replica.plugin` from the releases and install it in the Claude 
 ## What's inside
 
 - `skills/reverse-engineer-anything/` — the REA skill (v55) plus two added
-  guides: `references/rebuild-workflow.md` and `references/launch-and-deploy.md`.
+  guides: `references/rebuild-workflow.md` and `references/launch-and-deploy.md`,
+  which map REA's findings onto the Replica stages.
+- `skills/replica-*/` — all eleven Replica skills in full, each with its own
+  command: `replica-recon`, `replica-entrepreneur`, `replica-architect`,
+  `replica-design`, `replica-build`, `replica-backend`, `replica-test`,
+  `replica-diff`, `replica-brand`, `replica-launch`, `replica-deploy`, with
+  their tools and templates next to them.
 - `skills/reverse-engineer-anything/tools/` — six standard-library Python
   3.8+ tools, no network access: `parity.py`, `imgdiff.py`, `contrast.py`,
   `reviews.py`, `sweep.py`, `listing.py`.

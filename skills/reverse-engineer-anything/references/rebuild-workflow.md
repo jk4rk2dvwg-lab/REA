@@ -9,6 +9,13 @@ Adapted from the MIT-licensed Replica skill pack by Jake Schincariol
 standard-library Python 3.8+, touch no network, and need no installs.
 `LICENSE-replica` in that folder carries their license.
 
+This guide is a condensed map. The plugin also ships Replica's eleven full
+skills, one per stage (`replica-recon`, `replica-entrepreneur`,
+`replica-architect`, `replica-design`, `replica-build`, `replica-backend`,
+`replica-test`, `replica-diff`, `replica-brand`, `replica-launch`,
+`replica-deploy`). Use this guide to connect REA's Evidence to the rebuild,
+and load the matching skill for the complete instructions of each stage.
+
 Planning files live in a `replica/` folder in the user's project, so each stage
 can read the previous one. Paths like `tools/parity.py` are relative to this
 skill's folder; when installed as the rea-replica plugin that is
