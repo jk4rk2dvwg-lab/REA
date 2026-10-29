@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rea-replica",
+  "description": "Reverse engineer apps and binaries with REA, then rebuild your own version clean-room through to launch.",
+  "owner": { "name": "Mohammad Heidari" },
+  "plugins": [
+    {
+      "name": "rea-replica",
+      "description": "REA analysis tools plus the Replica rebuild, parity, rebrand, launch and deploy workflow.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

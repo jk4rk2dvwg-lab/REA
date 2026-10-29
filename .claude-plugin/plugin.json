@@ -1,0 +1,12 @@
+{
+  "name": "rea-replica",
+  "version": "0.1.0",
+  "description": "Reverse engineer apps and binaries with REA, then rebuild your own version clean-room: feature parity scoring, design tokens, testing, review mining, rebrand sweep, launch and deploy.",
+  "author": {
+    "name": "Mohammad Heidari"
+  },
+  "license": "MIT",
+  "keywords": ["reverse-engineering", "binary-analysis", "clean-room", "app-rebuild", "parity"],
+  "skills": "./skills",
+  "mcpServers": "./.mcp.json"
+}
